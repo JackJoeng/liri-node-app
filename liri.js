@@ -95,8 +95,8 @@ function myTweets() {
     if (error) throw error;
     for (var i = 0; i < tweets.length; i++) {
       output += chalk.black("───────────────────────────────────────────\n");
-      output += chalk.blue(tweets[i].created_at) + "\n";
-      output += chalk.blue(tweets[i].text) + "\n";
+      output += chalk.cyan(tweets[i].created_at) + "\n";
+      output += chalk.cyan(tweets[i].text) + "\n";
     }
     output += "───────────────────────────────────────────\n";
     logIt(output);
