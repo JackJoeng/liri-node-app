@@ -63,3 +63,42 @@ Argument: I Want it That Way
 [32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6[39m
 [32m[39m[32mALBUM:  The Hits--Chapter One[39m
 [32m[39m───────────────────────────────────────────
+═══════════════════════════════════════════
+
+Sun Aug 26 2018 15:25:20 GMT-0400 (Eastern Daylight Time)
+Command: spotify-this-song
+Argument: tik tok
+───────────────────────────────────────────
+[32mARTIST: Kesha[39m
+[32m[39m[32mSONG:   "Tik Tok"[39m
+[32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/5OMwQFBcte0aWFJFqrr5oj[39m
+[32m[39m[32mALBUM:  Animal[39m
+[32m[39m───────────────────────────────────────────
+═══════════════════════════════════════════
+
+Sun Aug 26 2018 15:25:55 GMT-0400 (Eastern Daylight Time)
+Command: movie-this
+Argument: it
+───────────────────────────────────────────
+[33mTITLE:           It[39m
+[33m[39m[33mYEAR:            2017[39m
+[33m[39m[33mIMDB Rating:     7.4/10[39m
+[33m[39m[33mRotten Tomatoes: 85%[39m
+[33m[39m[33mCountry:         USA, Canada[39m
+[33m[39m[33mLanguage:        English[39m
+[33m[39m[33mPlot:            In the summer of 1989, a group of bullied kids band together to destroy a shapeshifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.[39m
+[33m[39m[33mActors:          Jaeden Lieberher, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard[39m
+[33m[39m
+───────────────────────────────────────────
+═══════════════════════════════════════════
+
+Sun Aug 26 2018 15:26:08 GMT-0400 (Eastern Daylight Time)
+Command: spotify-this-song
+Argument: I Want it That Way
+
+───────────────────────────────────────────
+[32mARTIST: Backstreet Boys[39m
+[32m[39m[32mSONG:   "I Want It That Way"[39m
+[32m[39m[32mLINK:   https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6[39m
+[32m[39m[32mALBUM:  The Hits--Chapter One[39m
+[32m[39m───────────────────────────────────────────
