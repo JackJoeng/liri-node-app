@@ -14,6 +14,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ##Liri Home
 
 ![](liri-home.png)
+![](readme1.png)
 ![](readme2.png)
 ![](readme23.png)
 ![](readme3.png)
